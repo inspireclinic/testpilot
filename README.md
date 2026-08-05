@@ -1,6 +1,6 @@
 # Capricornia SPSP — design demo
 
-Live demo: **https://inspireclinic.github.io/Testpilot/**
+Live demo: **https://inspireclinic.github.io/testpilot/**
 
 `index.html` is a single self-contained file — the public website, The Verandah partner hub,
 seven brand directions and the brand profile, all inlined. No build step, no dependencies.
@@ -20,4 +20,4 @@ Replace `index.html` with a freshly exported demo bundle and commit. Pages redep
 - Sign-in on the hub accepts any email and password. Choosing a group is what matters.
 - Leadership Group entries are roles, not real people.
 - All figures in the Data Core and the hub are illustrative placeholders.
-- Designed desktop-first; phone layouts come later.
+- Layouts are responsive down to phone width; brand exploration pages are desktop-only.
